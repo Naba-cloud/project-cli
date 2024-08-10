@@ -2,7 +2,7 @@ Project CLI is a command-line tool designed to enhance the folder structure of J
 
 Features
 Enhanced Folder Structure: Extends basic project setups with additional folders and configurations for scalability and maintainability.
-Supports Multiple Frameworks: Works with popular JavaScript frameworks like React, Next.js, Node.js, Express, NestJS, Vue, and Angular.
+Supports Multiple Frameworks: Works with popular JavaScript frameworks like React, Node.js, Vue and more are in progress.
 Customizable: Easily extend or modify the generated structure to fit your specific project needs.
 Professional Best Practices: Implements industry-standard practices for organizing files and code.
 
@@ -17,7 +17,6 @@ To create a new project with a specific framework, run:
 project-cli create <framework>
 Troubleshooting
 If you encounter any issues, such as the command not being recognized, ensure that:
-
 The global npm directory is in your PATH.
 You have run npm link successfully.
 You have the correct permissions to install global npm packages.
