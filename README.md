@@ -21,5 +21,3 @@ If you encounter any issues, such as the command not being recognized, ensure th
 The global npm directory is in your PATH.
 You have run npm link successfully.
 You have the correct permissions to install global npm packages.
-
-This template gives a clear and comprehensive overview of your CLI tool, including installation, usage, and development instructions. You can customize it further based on additional features or details specific to your project.
